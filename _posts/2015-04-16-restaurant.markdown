@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zuhal's Restaurant Ordering "
+title:  "Zuhal's Restaurant Ordering"
 description: An app with
 date:   2015-04-16 10:34:07
 categories: Javascript Ruby Sinatra

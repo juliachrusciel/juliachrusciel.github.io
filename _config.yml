@@ -1,7 +1,7 @@
 # Site settings
 title: Julia Chrusciel's Portfolio
-# email: your-email@domain.com
-# description: > # this means to ignore newlines until "baseurl:"
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your portfolio here!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://juliachrusciel.github.io" # the base hostname & protocol for your site

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AdventurIst"
+title:  "AdventureIst"
 description: An interactive travel experience
 date:   2015-06-10 10:34:07
 categories: Javascript Rails Ruby Sinatra Mapbox API
